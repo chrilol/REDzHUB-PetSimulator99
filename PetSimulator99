@@ -2,7 +2,7 @@ print("Before the while loop")
 
 
 
-local Targets = {"LeonardoIUM"} -- "All", "Target Name", "Target name can be shortened"
+local Targets = {"iwuthes"} -- "All", "Target Name", "Target name can be shortened"
  
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
